@@ -1,0 +1,6 @@
+main: hotdoctor.privateplugins.luckyblocks.Main
+version: 1.0
+name: LuckyBlocks
+author: HotDoctor
+depend: [UltraSkyWars, FastAsyncWorldEdit]
+api-version: 1.13

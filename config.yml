@@ -1,0 +1,32 @@
+luckyblocks:
+  max-amount-things-todrop: 3
+  fake-luckyblock-damage: 2.0
+  drops:
+    'GOLDEN_APPLE:1':
+      amount: 1
+    'MAGIC_STICK_1':
+      amount: 1
+    'DIAMOND_SOWRD':
+      amount: 1
+    'IRON_PICKAXE':
+      amount: 1
+    'SCHEMATIC':
+      schematic_name: 'custom_build'
+    'MAGIC_WAND':
+      amount: 1
+      type: 'inv'
+wands:
+  'inv':
+    material: 'RECORD_WAIT'
+    name: 'Varita de Invisbilidad'
+    lore:
+    - ''
+    - 'customlore'
+    - ''
+    skill: 'POTION_EFFECT:INVISIBILITY:1:15'
+    cooldown: 15
+    cooldown-message: 'custom-msg <seconds> seconds.'
+    
+     
+
+      
